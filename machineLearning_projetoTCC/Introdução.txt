@@ -1,0 +1,2 @@
+Quero qual o melhor modelo de rede neural para a seguinte necessidade. preciso de uma rede neural que ao analisar os dados de cima pegue os atributos da tabela Team_atributes dos ultmiso 10 times que ganhou do time que vou enfrentar na próxima rodada e ao colocar o modelo que meu time irá jogar ele trazer basseado nos atributos dos times que ele analisou qual a probalidade de vitória, derrota e empate
+
